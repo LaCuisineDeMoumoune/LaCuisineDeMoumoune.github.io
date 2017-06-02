@@ -17,12 +17,16 @@
 	"origine": "Origine",
 	"prix": "Prix",
 	"difficulte": "Difficulte",
-	"pourNombrePersonnes": "(Pour # personnes)",
-	
-	"nombreRecettePourIngredient_0": "Utilisé dans aucune recette",
-	"nombreRecettePourIngredient_1": "Utilisé dans <b>une</b> recette",
-	"nombreRecettePourIngredient_n": "Utilisé dans <b>#</b> recettes",
-	
+	"pour": "Pour",
+	"personne": {
+		"1" : "personne",
+		"n": "personnes"
+	},
+	"nombreRecettePourIngredient": {
+		"0": "Utilisé dans aucune recette",
+		"1": "Utilisé dans <b>une</b> recette",
+		"n": "Utilisé dans <b>#</b> recettes"
+	},
 	"Accueil": {
 		"bonjour": "Bonjour"
 	},
@@ -225,13 +229,14 @@
 		"vapeur": "Vapeur"
 	},
 	"_unites": {
+		"-": " ou ",
 		"kg": "kg",
 		"g": "g",
 		"cas": "c.à.s.",
 		"cac": "c.à.c.",
 		"ts": "tasse",
-		"gr": "grain",
-		"feu": "feuilles",
+		"gr": "graine",
+		"feu": "feuille",
 		"pc": "pincée",
 		"ml": "ml",
 		"l": "l",

@@ -198,18 +198,19 @@
 		]}
 	],
 	"unites": [
-		{ "nom": "kg"},
+		{ "nom": "kg", "poids":1000},
 		{ "nom":"g"},
-		{ "nom":"cas"},
-		{ "nom":"cac"},
-		{ "nom":"ts"},
-		{ "nom":"gr"},
-		{ "nom":"feu"},
-		{ "nom":"pc"},
-		{ "nom":"ml"},
-		{ "nom":"l"},
-		{ "nom":"poi"},
-		{ "nom":"ti"}
+		{ "nom":"cas", "volume":15},
+		{ "nom":"cac", "volume":5},
+		{ "nom":"ts", "volume":250, "convert":"g"},
+		{ "nom":"gr", "mot_entier":true},
+		{ "nom":"feu", "mot_entier":true},
+		{ "nom":"pc", "mot_entier":true},
+		{ "nom":"ml", "volume":1},
+		{ "nom":"cl", "volume":10},
+		{ "nom":"l", "volume":1000},
+		{ "nom":"poi", "mot_entier":true},
+		{ "nom":"ti", "mot_entier":true}
 	],
 	"recettes": [
 		{
