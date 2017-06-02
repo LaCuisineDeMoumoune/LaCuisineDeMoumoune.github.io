@@ -1,0 +1,1 @@
+mc.Menu={links:["accueil","ingredients","recettes"],view:function(){return m("nav#menu",_.map(mc.Menu.links,function(e){return m(mc.ARoute,{route:e,className:mc.currentPage==e?"active":""},i18n(e))}))}};

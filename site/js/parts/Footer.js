@@ -1,0 +1,1 @@
+mc.Footer={view:function(){return m("div#footer","Footer!")}};

@@ -1,0 +1,1 @@
+function assert(w){if(!w)throw new Error}window.DEBUG=!0,window.mc={};

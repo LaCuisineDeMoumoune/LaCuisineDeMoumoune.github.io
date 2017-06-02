@@ -1,0 +1,1 @@
+mc.Spinner={view:function(){return m("div.spinner","...")}};

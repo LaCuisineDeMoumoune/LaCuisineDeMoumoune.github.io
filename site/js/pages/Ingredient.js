@@ -1,0 +1,1 @@
+mc.Ingredient={oninit:function(n){this.ingredient=_.find(mc.ingredients,{nom:n.attrs.nom})},view:function(n){var i=this;return m("div#body.ingredients",[m(mc.IngredientBox,{ingredient:i.ingredient})])}};
