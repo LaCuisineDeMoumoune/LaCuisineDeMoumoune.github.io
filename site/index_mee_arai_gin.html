@@ -4,20 +4,24 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
-	
 	<title>Moune Cuisine</title>
 
-	<link rel="stylesheet" href="libs/font-awesome/css/font-awesome.css">
-	<link rel="stylesheet" href="libs/pure/pure-min.css">
-	<link rel="stylesheet" href="libs/pure/grids-responsive-min.css">
-	<link href="https://fonts.googleapis.com/css?family=Dosis|Lobster+Two" rel="stylesheet">
-	<link rel="stylesheet" href="style.css">
+	<script type="text/javascript" src="js/globals.js"></script>
 	
-
+	<script>
+		if(!mc.local){
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+			ga('create', 'UA-100382015-1', 'auto');
+		}
+	</script>
+	
 	<script type="text/javascript" src="libs/mithril.js" ></script>
 	<script type="text/javascript" src="libs/core.min.js" ></script>
 	
-	<script type="text/javascript" src="js/globals.js"></script>
 	<script type="text/javascript" src="js/parts/Footer.js" ></script>
 	<script type="text/javascript" src="js/parts/Header.js" ></script>
 	<script type="text/javascript" src="js/parts/IngredientBox.js" ></script>
@@ -34,8 +38,16 @@
 	<script type="text/javascript" src="js/pages/Recettes.js" ></script>
 	<script type="text/javascript" src="js/pages/Recette.js" ></script>
 	<script type="text/javascript" src="js/i18n.js" ></script>
+
+	<link rel="stylesheet" href="libs/font-awesome/css/font-awesome.css">
+	<link rel="stylesheet" href="libs/pure/pure-min.css">
+	<link rel="stylesheet" href="libs/pure/grids-responsive-min.css">
+	<link href="https://fonts.googleapis.com/css?family=Dosis|Lobster+Two" rel="stylesheet">
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<script type="text/javascript" src="js/index.js" ></script>
+
+	
 </body>
 </html>

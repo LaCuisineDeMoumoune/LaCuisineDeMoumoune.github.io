@@ -1,1 +1,1 @@
-function assert(w){if(!w)throw new Error}window.DEBUG=!0,window.mc={};
+function assert(o){if(!o)throw new Error}window.DEBUG=!0,window.mc={},mc.local=window.location.href.indexOf("localhost")>=0;
