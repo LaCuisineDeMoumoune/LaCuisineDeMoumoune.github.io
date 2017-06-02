@@ -1,1 +1,54 @@
-undefined
+{
+	"etapes": [
+		{
+			"texte": [
+				"Verser la crème coco dans un wok à feu moyen",
+				" et le faire bouillir jusqu'à ce qu'il tranche légèrement."
+			],
+			"image": "1.png"
+		},
+		{
+			"texte": "Rajouter le pâte de curry vert et remuer jusqu'à ce qu'il sort l'huile vert.",
+			"image": "2.png",
+			"tip": {
+				"texte": "S'il est trop sec, vous pouvez ajouter un peu du lait de coco."
+			}
+		},
+		{
+			"texte": [ 
+				"Ajouter les morceaux de poulet et sauter , faire cuire doucement. ",
+				"Puis rajouter des pousses de bambou et des feuilles de cambavaet, mélanger bien."
+			],
+			"image": "3.png"
+		},
+		{
+			"texte": "Verser le lait de coco. Ajouter doucement le sauce poisson, le sucre de palmier.",
+			"image": "4.png",
+			"tip": {
+				"texte": [
+					"Goûter avant ajouter le sauce de poisson et le sucre de palmier, ",
+					"parce que la pâte de curry vert de chaque marque n'a pas le goût de salé et sucré pareille."
+				]
+			}
+		},
+		{
+			"texte": "Éteindre et ajouter le basilic thaï et le piment rouge",
+			"image": "5.png"
+		},
+		{
+			"texte": "Servir avec du riz thaïlandais ou basmati.",
+			"image": "6.png"
+		}
+	],
+	"tipsIngredients": [
+		{
+			"texte": "Mettez du porc ou de la crevette à la place du poulet",
+			"image": "porc.png"
+		}
+	],
+	"tips": [
+		{
+			"texte": "Vous pouvez faire beaucoup et partager dans des secs puis les conserver dans congélateur pour plusieur semaine."
+		}
+	]
+}

@@ -1,1 +1,30 @@
-undefined
+{
+	"etapes": [
+		{
+			"texte": "สลัด cuire le poulet",
+			"image": "1.png"
+		},
+		{
+			"texte": "สลัด le curry",
+			"image": "2.png",
+			"tip": {
+				"texte": "สลัด une cuillère à soupe"
+			}
+		},
+		{
+			"texte": "สลัด avec du riz",
+			"image": "3.png"
+		}
+	],
+	"tipsIngredients": [
+		{
+			"texte": "สลัด du porc à la place du poulet",
+			"image": "porc.png"
+		}
+	],
+	"tips": [
+		{
+			"texte": "สลัด du porc à la place du poulet"
+		}
+	]
+}

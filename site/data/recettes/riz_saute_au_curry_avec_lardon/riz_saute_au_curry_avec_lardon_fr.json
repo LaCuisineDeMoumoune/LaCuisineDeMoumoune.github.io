@@ -1,1 +1,68 @@
-undefined
+{
+	"etapes": [
+		{
+			"texte": "Couper le pomme de terre, la carotte et le lardon en petit cube.",
+			"image": "1.jpg",
+			"tip": {
+				"texte": [
+					"Pour le riz, il est mieux si l'on fait cuit avant 1 nuit et mettre dans le frigo."
+				]
+			}
+		},
+		{
+			"texte": [
+				"Mettre l'huite de tournesol,d'ail et du lardon nature dans un wok à feu moyen",
+				" et le sauter jusqu'à ce qu'ils sont dorés."
+			],
+			"image": "2.jpg"
+		},
+		{
+			"texte": [ 
+				"Rajouter du pomme de terre, de la carotte, du maïs et du petit pois.",
+				", mélanger bien."
+			],
+			"image": "3.jpg"
+		},
+		{
+			"texte": "Déplacer tous les choses un côté de wok comme la photo. Ajouter un oeuf un par un.",
+			"image": "4.jpg",
+			"tip": {
+				"texte": [
+					"Goûter avant ajouter le sauce de poisson et le sucre de palmier, ",
+					"parce que la pâte de curry vert de chaque marque n'a pas le goût de salé et sucré pareille."
+				]
+			}
+		},
+		{
+			"texte": "Remouler et bien tous mélanger.",
+			"image": "5.jpg"
+		},
+		{
+			"texte": [
+				"Faire le trou au millieur et puis mettre le riz. ",
+				"Ajouter avec de la sauce d'huître, sauce soja, sucre, sauce poisson, poivre, curry. Mélanger bien."
+			],
+			"image": "6.jpg",
+			"tip": {
+				"texte": [
+					"Monter du feu le plus fort, et mélanger tous plus vide que posible. "
+				]
+			}
+		},
+		{
+			"texte": "Servir avec n'importe quel viande.",
+			"image": "7.jpg"
+		}
+	],
+	"tipsIngredients": [
+		{
+			"texte": "Mettez n'importe quel viande ou légume qui reste dans votre frigo à la place du lardon",
+			"image": "porc.png"
+		}
+	],
+	"tips": [
+		{
+			"texte": "Vous pouvez faire beaucoup et partager dans des secs puis les conserver dans congélateur pour plusieur semaine."
+		}
+	]
+}
