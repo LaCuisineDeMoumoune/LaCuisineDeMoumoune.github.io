@@ -1,1 +1,1 @@
-mc.Header={view:function(){return m("div#header",[m("img#logo",{src:"assets/logo.png"}),m("div#title",i18n("titre"))])}};
+mc.Header={view:function(){return m("div#header",[m("img#logo",{src:"assets/logo.png"}),m("div#title-wrapper",[m("div#title",i18n("titre"))])])}};

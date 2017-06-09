@@ -205,9 +205,12 @@
 	},
 	"_recettes": {
 		"curry_vert_de_poulet": "Curry vert de poulet",
+		"curry_vert_de_poisson": "Curry vert de poisson",
+		"curry_vert_de_crevette": "Curry vert de crevette",
 		"riz_saute_au_curry_avec_lardon": "Riz sauté au curry avec lardon",
 		"riz_saute_au_porc_traditional_thailandais": "Riz sauté au porc traditional thailandaïs",
-		"riz_saute_au_poulet_facile_maison": "Riz sauté au poulet facile à la maison"
+		"riz_saute_au_poulet_facile_maison": "Riz sauté au poulet facile à la maison",
+		"riz_saute_au_crevette": "Riz saute au crevette"
 	},
 	"_preparations": {
 		"barbecue": "Barbecue",
@@ -252,5 +255,15 @@
 		"1": "*",
 		"2": "**",
 		"3": "***"
+	},
+	"tagsRecette": {
+		"plat": "Plat",
+		"dessert": "Dessert",
+		"chaud": "Chaud",
+		"froid": "Froid",
+		"sucre": "Sucre",
+		"sale": "Sale",
+		"vegetarien": "Vegetarien",
+		"vegetalien": "Vegetalien"
 	}
 }

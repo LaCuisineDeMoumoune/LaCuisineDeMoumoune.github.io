@@ -1,1 +1,1 @@
-mc.Pub={view:function(){return m("div.pub","PUB")}};
+mc.Pub={view:function(t){return m("div.pub",t.attrs,"PUB")}};
